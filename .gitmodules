@@ -1,0 +1,40 @@
+[submodule "video-synth-r_e_c_u_r"]
+	path = video-synth-r_e_c_u_r
+	url = git@git-rhino:rhinocerose/video-synth-r_e_c_u_r
+	branch = main
+[submodule "video-synth-EYESY_OS_for_RasPi"]
+	path = video-synth-EYESY_OS_for_RasPi
+	url = git@git-rhino:rhinocerose/video-synth-EYESY_OS_for_RasPi
+	branch = main
+[submodule "video-synth-lzxcadet"]
+	path = video-synth-lzxcadet
+	url = git@git-rhino:rhinocerose/video-synth-lzxcadet
+	branch = main
+[submodule "video-synth-two_point_one_colorizer"]
+	path = video-synth-two_point_one_colorizer
+	url = git@git-rhino:rhinocerose/video-synth-two_point_one_colorizer
+	branch = main
+[submodule "video-synth-_rupture_"]
+	path = video-synth-_rupture_
+	url = git@git-rhino:rhinocerose/video-synth-_rupture_
+	branch = main
+[submodule "video-synth-recurBOY"]
+	path = video-synth-recurBOY
+	url = git@git-rhino:rhinocerose/video-synth-recurBOY
+	branch = main
+[submodule "video-synth-two_comparator_effect"]
+	path = video-synth-two_comparator_effect
+	url = git@git-rhino:rhinocerose/video-synth-two_comparator_effect
+	branch = main
+[submodule "video-synth-c_l_i_k_r"]
+	path = video-synth-c_l_i_k_r
+	url = git@git-rhino:rhinocerose/video-synth-c_l_i_k_r
+	branch = main
+[submodule "video-synth-i_n_c_u_r"]
+	path = video-synth-i_n_c_u_r
+	url = git@git-rhino:rhinocerose/video-synth-i_n_c_u_r
+	branch = main
+[submodule "video-synth-sync_ope"]
+	path = video-synth-sync_ope
+	url = git@git-rhino:rhinocerose/video-synth-sync_ope
+	branch = main
