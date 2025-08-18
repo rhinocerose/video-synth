@@ -42,3 +42,7 @@
 	path = video-synth-chroma_luma_invert
 	url = git@git-rhino:rhinocerose/video-synth-chroma_luma_invert
 	branch = main
+[submodule "video-synth-d_e_t_o_u_r"]
+	path = video-synth-d_e_t_o_u_r
+	url = git@git-rhino:rhinocerose/video-synth-d_e_t_o_u_r
+	branch = main
