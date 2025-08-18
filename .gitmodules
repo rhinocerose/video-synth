@@ -38,3 +38,7 @@
 	path = video-synth-sync_ope
 	url = git@git-rhino:rhinocerose/video-synth-sync_ope
 	branch = main
+[submodule "video-synth-chroma_luma_invert"]
+	path = video-synth-chroma_luma_invert
+	url = git@git-rhino:rhinocerose/video-synth-chroma_luma_invert
+	branch = main
